@@ -1,0 +1,257 @@
+Protein_signature	Cancer_type	Expression	classification	score_details	Classification	Score_Details
+(AKT + AKT_pT308)	TGCT	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+(AMPKALPHA + AMPKALPHA_pT172)	BRCA	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+(CASPASE7CLEAVEDD198 + SF2)	THCA	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+(CAVEOLIN1 + LKB1)	BRCA	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.500766777309398 ( T cell CD4+ Th1_XCELL(-0.294895175646003), T cell CD4+ memory activated_CIBERSORT(-0.205871601663395) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+(CHK2 + CHK2_pT68)	BRCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.365717568353306 ( T cell CD4+ Th1_XCELL(0.365717568353306) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+(CYCLINE1 + X4EBP1_pT37T46)	BRCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+(FOXM1 + PR)	THCA	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+(KU80 + MSH2 + MSH6 + S6)	TGCT	Overexpression	Variável	Macrophage M2_CIBERSORT, -0.590570383416881, 1, Variable	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+(LCK + PCNA)	THYM	Overexpression	Variável	"c(""""NK cell activated_CIBERSORT"""", """"Macrophage M1_CIBERSORT"""", """"Macrophage M2_CIBERSORT""""), c(-0.631851109084007, -0.695853577998962, -0.692448878304424), c(3, 1, 1), c(""""Variable"""", """"Cold"""", """"Cold"""")"	dualista	Anti-tumoral: -1.32770468708297 ( NK cell activated_CIBERSORT(-0.631851109084007), Macrophage M1_CIBERSORT(-0.695853577998962) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+(MSH2 + MSH6 + PCNA)	BRCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.392281493220953 ( T cell CD4+ Th1_XCELL(0.392281493220953) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+(MSH2 + MSH6 + PCNA)	LUSC	Overexpression			NS	No data
+(MSH2 + MSH6 + XRCC1)	STAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.35922484254479 ( T cell CD4+ Th1_XCELL(0.35922484254479) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+(MSH2 + PCNA)	OV	Overexpression			NS	No data
+(MSH6 + PCNA)	LUAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.362591471202133 ( T cell CD4+ Th1_XCELL(0.362591471202133) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+(PARP1 + PARPCLEAVED)	BRCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.328982920015448 ( T cell CD4+ Th1_XCELL(0.328982920015448) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+(PKCALPHA + PKCALPHA_pS657)	BRCA	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+(PKCALPHA + PKCALPHA_pS657)	PRAD	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+(PKCALPHA + PKCALPHA_pS657)	SKCM	Overexpression			NS	No data
+(RAB25 + XRCC1)	THCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+(X4EBP1 + X4EBP1_pT70)	LUAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.698618185725721 ( T cell CD4+ Th1_XCELL(0.395516631219126), T cell CD4+ memory activated_CIBERSORT(0.303101554506595) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+(X4EBP1_pS65 + X4EBP1_pT70)	BRCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.190346780784429 ( T cell CD4+ memory activated_CIBERSORT(0.190346780784429) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+(YAP + YAP_pS127)	BRCA	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.211953225095221 ( T cell CD4+ Th1_XCELL(-0.211953225095221) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+(YAP + YAP_pS127)	LGG	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+(YAP + YAP_pS127)	TGCT	Unchanged	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+ADAR1	BRCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.2510818108958 ( T cell CD4+ Th1_XCELL(0.2510818108958) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+AKT	THCA	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+ANNEXIN1	BRCA	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+ANNEXIN1	LGG	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+ANNEXIN1	SKCM	Underexpression			NS	No data
+ANNEXIN1	THCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+AR	BRCA	Overexpression	Variável	Macrophage M2_CIBERSORT, 0.232465034728359, 1, Variable	dualista	Anti-tumoral: -0.219098757017849 ( T cell CD4+ memory activated_CIBERSORT(-0.219098757017849) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+AR	LGG	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+BAD_pS112	LGG	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+BAP1C4	BRCA	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: -0.243572818612049 ( T cell CD4+ Th1_XCELL(0.243572818612049) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+BAP1C4	GBM	Underexpression			NS	No data
+BAX	TGCT	Overexpression	Variável	Macrophage M2_CIBERSORT, -0.545996477442081, 1, Variable	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+BCL2	BRCA	Unchanged	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: -0.22911720216673 ( T cell CD4+ memory activated_CIBERSORT(-0.22911720216673) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+BCL2	STAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+BCL2A1	BRCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+BETACATENIN	THYM	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+BID	TGCT	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+BIM	LUAD	Overexpression	Variável	T cell CD8+_CIBERSORT, 0.323856438394516, 3, Variable	anti-tumoral	Anti-tumoral: 0.323856438394516 ( T cell CD8+_CIBERSORT(0.323856438394516) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CASPASE3	BRCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.263095515702571 ( T cell CD4+ Th1_XCELL(0.263095515702571) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CASPASE3	LUAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CASPASE3	STAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CASPASE7CLEAVEDD198	BRCA	Overexpression	Quente	"c(""""Macrophage M2_CIBERSORT"""", """"Macrophage M1_CIBERSORT"""", """"T cell CD8+_CIBERSORT"""", """"NK cell activated_CIBERSORT""""), c(-0.367784288250608, 0.471902139131843, 0.382378332649136, 0.200689683997423), c(1, 1, 3, 3), c(""""Variable"""", """"Hot"""", """"Hot"""", """"Hot"""")"	anti-tumoral	Anti-tumoral: 1.73262085588111 ( T cell CD4+ memory activated_CIBERSORT(0.446032406858788), Macrophage M1_CIBERSORT(0.471902139131843), T cell CD8+_CIBERSORT(0.382378332649136), T cell CD4+ Th1_XCELL(0.231618293243923), NK cell activated_CIBERSORT(0.200689683997423) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CASPASE7CLEAVEDD198	STAD	Overexpression	Quente	"c(""""T cell CD8+_CIBERSORT"""", """"Macrophage M1_CIBERSORT""""), c(0.350033982091683, 0.470667852870724), c(3, 1), c(""""Hot"""", """"Hot"""")"	anti-tumoral	Anti-tumoral: 1.78528797502687 ( T cell CD4+ memory activated_CIBERSORT(0.49647262299046), T cell CD8+_CIBERSORT(0.350033982091683), Macrophage M1_CIBERSORT(0.470667852870724), T cell CD4+ Th1_XCELL(0.468113517074007) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CASPASE8	BRCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: -0.190429236929409 ( T cell CD4+ Th1_XCELL(-0.190429236929409) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CAVEOLIN1	KIRC	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CAVEOLIN1	LGG	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CAVEOLIN1	LUAD	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CAVEOLIN1	OV	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CAVEOLIN1	PRAD	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CAVEOLIN1	SKCM	Underexpression			NS	No data
+CAVEOLIN1	STAD	Unchanged	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: -0.328145404902203 ( T cell CD4+ Th1_XCELL(-0.328145404902203) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CAVEOLIN1	THCA	Underexpression			NS	No data
+CD26	BRCA	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.187087983149039 ( T cell CD4+ Th1_XCELL(-0.187087983149039) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CD26	THCA	Overexpression			NS	No data
+CD49B	LGG	Overexpression			NS	No data
+CDK1	OV	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CDK1_pY15	BLCA	Overexpression			NS	No data
+CDK1_pY15	BRCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.260599962348727 ( T cell CD4+ Th1_XCELL(0.260599962348727) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CDK1_pY15	COAD	Overexpression			NS	No data
+CDK1_pY15	HNSC	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CDK1_pY15	KIRP	Overexpression			NS	No data
+CDK1_pY15	LUAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CDK1_pY15	SKCM	Overexpression			NS	No data
+CDK1_pY15	STAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CDK1_pY15	THYM	Overexpression	Variável	NK cell activated_CIBERSORT, -0.58803048618466, 3, Variable	dualista	Anti-tumoral: -0.58803048618466 ( NK cell activated_CIBERSORT(-0.58803048618466) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CHK1	HNSC	Overexpression			NS	No data
+CHK1	KIRP	Overexpression			NS	No data
+CHK1	SARC	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CHK1	THYM	Overexpression	Variável	"c(""""T cell regulatory (Tregs)_CIBERSORT"""", """"Macrophage M2_CIBERSORT"""", """"NK cell activated_CIBERSORT"""", """"Macrophage M1_CIBERSORT""""), c(0.600483050874403, -0.740053323293056, -0.601184221826712, -0.66388980612293), c(1, 1, 3, 1), c(""""Variable"""", """"Cold"""", """"Variable"""", """"Cold"""")"	dualista	Anti-tumoral: -0.71087705257903 ( NK cell activated_CIBERSORT(-0.601184221826712), T cell CD4+ Th1_XCELL(0.554196975370612), Macrophage M1_CIBERSORT(-0.66388980612293) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CHK1_pS345	BRCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CHK2	BLCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CHK2	CESC	Overexpression			NS	No data
+CHK2	COAD	Overexpression			NS	No data
+CHK2	LUAD	Overexpression			NS	No data
+CHK2	LUSC	Overexpression			NS	No data
+CHK2	OV	Underexpression			NS	No data
+CHK2	PRAD	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CHK2	SARC	Overexpression			NS	No data
+CHK2	SKCM	Overexpression			NS	No data
+CHK2	STAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CHK2	TGCT	Overexpression	Frio	Macrophage M2_CIBERSORT, -0.739704544955242, 1, Cold	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CHK2_pT68	THCA	Unchanged	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CKIT	STAD	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.397800230715987 ( T cell CD4+ Th1_XCELL(-0.397800230715987) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CLAUDIN7	HNSC	Underexpression			NS	No data
+CLAUDIN7	STAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CMET	BRCA	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.188893527185287 ( T cell CD4+ Th1_XCELL(-0.188893527185287) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+COLLAGENVI	BRCA	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.234870179436456 ( T cell CD4+ Th1_XCELL(-0.234870179436456) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+COLLAGENVI	COAD	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+COLLAGENVI	STAD	Unchanged	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+COMPLEXIISUBUNIT30	KIRC	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CYCLINB1	BLCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.388073266128686 ( T cell CD4+ Th1_XCELL(0.388073266128686) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CYCLINB1	BRCA	Overexpression	Variável	Macrophage M1_CIBERSORT, 0.218658051023643, 1, Variable	anti-tumoral	Anti-tumoral: 0.840210300477158 ( T cell CD4+ Th1_XCELL(0.379563535178088), Macrophage M1_CIBERSORT(0.218658051023643), T cell CD4+ memory activated_CIBERSORT(0.241988714275427) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CYCLINB1	COAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.344737511021861 ( T cell CD4+ Th1_XCELL(0.344737511021861) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CYCLINB1	HNSC	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CYCLINB1	KIRC	Overexpression	Frio	"c(""""T cell regulatory (Tregs)_CIBERSORT"""", """"T cell regulatory (Tregs)_CIBERSORT"""", """"T cell regulatory (Tregs)_CIBERSORT""""), c(0.295736475354636, 0.295736475354636, 0.295736475354636), c(1, 1, 1), c(""""Cold"""", """"Cold"""", """"Cold"""")"	anti-tumoral	Anti-tumoral: 0.797413420737408 ( T cell CD4+ Th1_XCELL(0.265804473579136), T cell CD4+ Th1_XCELL(0.265804473579136), T cell CD4+ Th1_XCELL(0.265804473579136) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CYCLINB1	KIRP	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CYCLINB1	LUAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.742660535942498 ( T cell CD4+ memory activated_CIBERSORT(0.342075245984959), T cell CD4+ Th1_XCELL(0.400585289957539) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CYCLINB1	LUSC	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CYCLINB1	OV	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CYCLINB1	PRAD	Overexpression			NS	No data
+CYCLINB1	SARC	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CYCLINB1	SKCM	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CYCLINB1	STAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.476298722338391 ( T cell CD4+ Th1_XCELL(0.476298722338391) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CYCLINB1	TGCT	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CYCLINB1	THYM	Overexpression	Variável	"c(""""Macrophage M2_CIBERSORT"""", """"Macrophage M1_CIBERSORT""""), c(-0.615416560566185, -0.604625711718184), c(1, 1), c(""""Variable"""", """"Variable"""")"	dualista	Anti-tumoral: -0.041255661894097 ( T cell CD4+ Th1_XCELL(0.563370049824087), Macrophage M1_CIBERSORT(-0.604625711718184) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CYCLINB1	UCEC	Overexpression			NS	No data
+CYCLIND1	STAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CYCLINE1	COAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CYCLINE1	LUAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CYCLINE1	STAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CYCLINE2	BRCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CYCLINE2	LUAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CYCLINE2	STAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+CYCLINE2	THCA	Underexpression			NS	No data
+DVL3	LGG	Overexpression			NS	No data
+DVL3	TGCT	Unchanged	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+DVL3	THYM	Overexpression	Quente	"c(""""NK cell activated_CIBERSORT"""", """"Macrophage M1_CIBERSORT""""), c(0.563383744795104, 0.568187178640502), c(3, 1), c(""""Hot"""", """"Hot"""")"	anti-tumoral	Anti-tumoral: 1.13157092343561 ( NK cell activated_CIBERSORT(0.563383744795104), Macrophage M1_CIBERSORT(0.568187178640502) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+ECADHERIN	BRCA	Overexpression	Frio	T cell CD8+_CIBERSORT, -0.195961445225884, 3, Cold	dualista	Anti-tumoral: -0.195961445225884 ( T cell CD8+_CIBERSORT(-0.195961445225884) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+EEF2	BRCA	Unchanged	Variável	Macrophage M1_CIBERSORT, 0.201383838444395, 1, Variable	anti-tumoral	Anti-tumoral: 0.201383838444395 ( Macrophage M1_CIBERSORT(0.201383838444395) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+EEF2	TGCT	Overexpression	Frio	Macrophage M2_CIBERSORT, -0.668195366481507, 1, Cold	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+EGFR	THCA	Underexpression			NS	No data
+EGFR	THYM	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+EIF4E	STAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.297987610627462 ( T cell CD4+ Th1_XCELL(0.297987610627462) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+EIF4G	BRCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.203142132406637 ( T cell CD4+ Th1_XCELL(0.203142132406637) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+ERALPHA	BRCA	Overexpression	Variável	Macrophage M1_CIBERSORT, -0.242973816740621, 1, Variable	dualista	Anti-tumoral: -0.541476053668258 ( Macrophage M1_CIBERSORT(-0.242973816740621), T cell CD4+ memory activated_CIBERSORT(-0.298502236927637) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+ERALPHA	STAD	Unchanged	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+ETS1	KIRC	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+FASN	COAD	Overexpression	Variável	Macrophage M2_CIBERSORT, -0.346209206004171, 1, Variable	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+FASN	KIRP	Overexpression			NS	No data
+FASN	LGG	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+FASN	PRAD	Overexpression			NS	No data
+FASN	STAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.370384094142465 ( T cell CD4+ Th1_XCELL(0.370384094142465) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+FIBRONECTIN	HNSC	Overexpression	Frio	T cell CD8+_CIBERSORT, -0.326652502211946, 3, Cold	dualista	Anti-tumoral: -0.326652502211946 ( T cell CD8+_CIBERSORT(-0.326652502211946) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+FIBRONECTIN	KIRC	Overexpression			NS	No data
+FIBRONECTIN	OV	Unchanged			NS	No data
+FOXM1	BLCA	Overexpression			NS	No data
+FOXM1	BRCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.532347385672975 ( T cell CD4+ memory activated_CIBERSORT(0.194417163486821), T cell CD4+ Th1_XCELL(0.337930222186154) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+FOXM1	KIRP	Overexpression			NS	No data
+FOXM1	LUAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.321713147417635 ( T cell CD4+ Th1_XCELL(0.321713147417635) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+FOXM1	LUSC	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+FOXM1	OV	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+FOXM1	SKCM	Overexpression			NS	No data
+FOXM1	STAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.321598020443884 ( T cell CD4+ Th1_XCELL(0.321598020443884) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+FOXM1	THYM	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+FOXO3A	THCA	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+FOXO3A_pS318S321	STAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+GAPDH	BRCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+GAPDH	THYM	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+GATA3	THCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+GATA3	THYM	Overexpression	Frio	"c(""""NK cell activated_CIBERSORT"""", """"Macrophage M1_CIBERSORT"""", """"Macrophage M2_CIBERSORT""""), c(-0.648659623167759, -0.654241493669686, -0.663238258342165), c(3, 1, 1), c(""""Cold"""", """"Variable"""", """"Variable"""")"	dualista	Anti-tumoral: -1.30290111683744 ( NK cell activated_CIBERSORT(-0.648659623167759), Macrophage M1_CIBERSORT(-0.654241493669686) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+GCN5L2	BRCA	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: -0.283024375383619 ( T cell CD4+ Th1_XCELL(0.283024375383619) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+GCN5L2	COAD	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+GSK3ALPHABETA	LGG	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+GSK3ALPHABETA	THYM	Unchanged	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+HER2	LGG	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+HER2	THCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+HER3_pY1289	LGG	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+HSP70	STAD	Unchanged	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+IGF1R_pY1135Y1136	BRCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+IGFBP2	SKCM	Overexpression			NS	No data
+INPP4B	BRCA	Overexpression	Variável	"c(""""Macrophage M2_CIBERSORT"""", """"Macrophage M1_CIBERSORT""""), c(0.256355888802916, -0.225544093220827), c(1, 1), c(""""Variable"""", """"Variable"""")"	dualista	Anti-tumoral: -0.700658163436613 ( T cell CD4+ Th1_XCELL(-0.198658002315154), T cell CD4+ memory activated_CIBERSORT(-0.276456067900632), Macrophage M1_CIBERSORT(-0.225544093220827) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+INPP4B	KIRP	Underexpression			NS	No data
+IRS1	TGCT	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+JAK2	BRCA	Underexpression	Variável	Macrophage M1_CIBERSORT, 0.268679190182606, 1, Variable	dualista	Anti-tumoral: -0.503186275270012 ( Macrophage M1_CIBERSORT(0.268679190182606), T cell CD4+ memory activated_CIBERSORT(0.234507085087406) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+LCK	LGG	Overexpression			NS	No data
+MSH2	PRAD	Overexpression			NS	No data
+MSH6	BLCA	Overexpression			NS	No data
+MSH6	LUSC	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+MSH6	OV	Underexpression			NS	No data
+MTOR_pS2448	LUAD	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+MYH11	BRCA	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.306152576718223 ( T cell CD4+ Th1_XCELL(-0.306152576718223) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+MYH11	KIRC	Unchanged	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+MYH11	LUAD	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.342426618205261 ( T cell CD4+ Th1_XCELL(-0.342426618205261) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+MYH11	STAD	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.340451537370136 ( T cell CD4+ Th1_XCELL(-0.340451537370136) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+MYOSINIIA_pS1943	KIRC	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+NDRG1_pT346	THCA	Underexpression			NS	No data
+NOTCH1	KIRC	Overexpression	Frio	T cell regulatory (Tregs)_CIBERSORT, -0.257315380994864, 1, Cold	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+NOTCH1	THCA	Underexpression			NS	No data
+NRAS	THCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+P38_pT180Y182	THCA	Underexpression			NS	No data
+P62LCKLIGAND	KIRP	Overexpression	Quente	Macrophage M1_CIBERSORT, 0.393152937538339, 1, Hot	anti-tumoral	Anti-tumoral: 0.393152937538339 ( Macrophage M1_CIBERSORT(0.393152937538339) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+P70S6K1	PRAD	Underexpression			NS	No data
+P70S6K_pT389	THCA	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+P90RSK	THCA	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+PAI1	GBM	Overexpression			NS	No data
+PAI1	LGG	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+PARP1	OV	Overexpression			NS	No data
+PAXILLIN	THCA	Underexpression			NS	No data
+PCNA	HNSC	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+PCNA	SARC	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+PCNA	SKCM	Overexpression			NS	No data
+PCNA	STAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.458893104087584 ( T cell CD4+ Th1_XCELL(0.458893104087584) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+PDL1	KIRC	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+PEA15	BRCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: -0.190134155622452 ( T cell CD4+ Th1_XCELL(-0.190134155622452) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+PEA15	STAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+PKCALPHA	STAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+PKCALPHA_pS657	HNSC	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+PKCALPHA_pS657	LUAD	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+PKCALPHA_pS657	STAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+PKCDELTA_pS664	STAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+PKCDELTA_pS664	THCA	Overexpression			NS	No data
+PKCPANBETAII_pS660	LUAD	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+PR	BRCA	Unchanged	Variável	Macrophage M1_CIBERSORT, -0.218029060689113, 1, Variable	dualista	Anti-tumoral: -0.465327064604004 ( T cell CD4+ memory activated_CIBERSORT(-0.247298003914891), Macrophage M1_CIBERSORT(-0.218029060689113) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+PR	PRAD	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+PR	STAD	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.401189436859087 ( T cell CD4+ Th1_XCELL(-0.401189436859087) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+PRAS40_pT246	KIRC	Overexpression			NS	No data
+PRDX1	TGCT	Overexpression	Frio	Macrophage M2_CIBERSORT, -0.687483699650671, 1, Cold	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+PRDX1	THYM	Overexpression			NS	No data
+RAD50	COAD	Overexpression			NS	No data
+RB	KIRC	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+RB	TGCT	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+RBM15	BRCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.232292991050738 ( T cell CD4+ Th1_XCELL(0.232292991050738) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+RBM15	TGCT	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+RB_pS807S811	THYM	Overexpression	Variável	"c(""""Macrophage M1_CIBERSORT"""", """"NK cell activated_CIBERSORT"""", """"Macrophage M2_CIBERSORT""""), c(-0.681154771451484, -0.562657175466239, -0.735156057297199), c(1, 3, 1), c(""""Cold"""", """"Variable"""", """"Cold"""")"	dualista	Anti-tumoral: -1.24381194691772 ( Macrophage M1_CIBERSORT(-0.681154771451484), NK cell activated_CIBERSORT(-0.562657175466239) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+S6	BRCA	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: -0.44053119251541 ( T cell CD4+ Th1_XCELL(0.247306636019327), T cell CD4+ memory activated_CIBERSORT(0.193224556496083) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+S6	COAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+S6	STAD	Unchanged	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+SCD1	THCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+SHC_pY317	KIRP	Unchanged	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+SLC1A5	BRCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.208906684834794 ( T cell CD4+ Th1_XCELL(0.208906684834794) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+SMAC	KIRC	Unchanged	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+SMAC	LGG	Overexpression			NS	No data
+SMAD3	THCA	Underexpression			NS	No data
+SRC_pY527	BRCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: -0.274176932777299 ( T cell CD4+ Th1_XCELL(-0.274176932777299) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+STAT3_pY705	BRCA	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.246862716474284 ( T cell CD4+ Th1_XCELL(-0.246862716474284) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+STAT3_pY705	LUAD	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+STAT3_pY705	SKCM	Underexpression			NS	No data
+STAT5ALPHA	LGG	Overexpression			NS	No data
+STATHMIN	THYM	Overexpression	Frio	"c(""""Macrophage M1_CIBERSORT"""", """"NK cell activated_CIBERSORT"""", """"Macrophage M2_CIBERSORT"""", """"T cell regulatory (Tregs)_CIBERSORT""""), c(-0.688985329496674, -0.678927140015284, -0.65094006690601, 0.569650826099354), c(1, 3, 1, 1), c(""""Cold"""", """"Cold"""", """"Variable"""", """"Variable"""")"	dualista	Anti-tumoral: -1.36791246951196 ( Macrophage M1_CIBERSORT(-0.688985329496674), NK cell activated_CIBERSORT(-0.678927140015284) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+SYK	LGG	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+TAZ	LGG	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+TAZ	STAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+TFRC	BRCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+TFRC	LUSC	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+TFRC	SARC	Unchanged	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+TFRC	SKCM	Unchanged			NS	No data
+TFRC	STAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.400023124631317 ( T cell CD4+ Th1_XCELL(0.400023124631317) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+THYMIDILATESYNTHASE	LUAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+TRANSGLUTAMINASE	LUAD	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+TSC1	THCA	Underexpression			NS	No data
+TUBERIN	LGG	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+TUBERIN_pT1462	THCA	Underexpression			NS	No data
+VEGFR2	LGG	Overexpression	Variável	Macrophage M2_CIBERSORT, 0.295021931621331, 1, Variable	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+X1433ZETA	THCA	Overexpression			NS	No data
+X4EBP1	BRCA	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+X4EBP1	STAD	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.40602038687702 ( T cell CD4+ Th1_XCELL(0.40602038687702) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+X53BP1	LGG	Overexpression	NS	character(0), numeric(0), numeric(0), character(0)	anti-tumoral	Anti-tumoral: 0.286606210578395 ( T cell CD4+ Th1_XCELL(0.286606210578395) ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+XRCC1	PRAD	Unchanged	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+YAP	THYM	Overexpression			NS	No data
+YAP_pS127	KIRC	Underexpression			NS	No data
+YAP_pS127	LUAD	Underexpression	NS	character(0), numeric(0), numeric(0), character(0)	dualista	Anti-tumoral: 0 (  ) Pró-tumoral: 0 (  ) Dualista: 0 (  )
+YAP_pS127	THCA	Overexpression			NS	No data
